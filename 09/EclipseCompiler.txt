@@ -1,0 +1,1 @@
+12 May 2021 9:18:59 GMT: Log 'EclipseCompiler.txt' opened: 12 May 2021 9:18:59 GMT with name C:\Users\William Duggan\Documents\University\Second Year\COSC241 - Programming and Problem Solving\COSC241 - Labs\09\EclipseCompiler.txt

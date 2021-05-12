@@ -1,0 +1,23 @@
+12 May 2021 9:21:13 GMT: Log 'EclipseCompiler.txt' opened: 12 May 2021 9:21:13 GMT with name C:\Users\William Duggan\Documents\University\Second Year\COSC241 - Programming and Problem Solving\COSC241 - Labs\06\EclipseCompiler.txt
+12 May 2021 9:21:47 GMT: diagnostics = javax.tools.DiagnosticCollector@1edf824
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@56f513
+fileObjects = [C:\Users\William Duggan\Documents\University\Second Year\COSC241 - Programming and Problem Solving\COSC241 - Labs\06\LongWords.java]
+12 May 2021 9:21:47 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1981a3a' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\William Duggan\Documents\University\Second Year\COSC241 - Programming and Problem Solving\COSC241 - Labs\06;C:\Users\William Duggan\Desktop\drjava-beta-20160913-225446.exe]
+12 May 2021 9:21:48 GMT: Compiler call returned
+12 May 2021 9:21:48 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1890f45
+12 May 2021 9:21:48 GMT:  Kind = WARNING
+12 May 2021 9:21:48 GMT: Name = C:\Users\William Duggan\Documents\University\Second Year\COSC241 - Programming and Problem Solving\COSC241 - Labs\06\LongWords.java LineNo = 5 ColNo = 8 Msg = 'The import java.io is never used'
+12 May 2021 9:21:48 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c85b96
+12 May 2021 9:21:48 GMT:  Kind = WARNING
+12 May 2021 9:21:48 GMT: Name = C:\Users\William Duggan\Documents\University\Second Year\COSC241 - Programming and Problem Solving\COSC241 - Labs\06\LongWords.java LineNo = 29 ColNo = 17 Msg = 'Resource leak: 'fileScan' is never closed'
+12 May 2021 9:22:44 GMT: diagnostics = javax.tools.DiagnosticCollector@3297d4
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@176b106
+fileObjects = [C:\Users\William Duggan\Documents\University\Second Year\COSC241 - Programming and Problem Solving\COSC241 - Labs\06\LongWords.java]
+12 May 2021 9:22:44 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@e91bdd' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\William Duggan\Documents\University\Second Year\COSC241 - Programming and Problem Solving\COSC241 - Labs\06;C:\Users\William Duggan\Desktop\drjava-beta-20160913-225446.exe]
+12 May 2021 9:22:44 GMT: Compiler call returned
+12 May 2021 9:22:44 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17c01f2
+12 May 2021 9:22:44 GMT:  Kind = WARNING
+12 May 2021 9:22:44 GMT: Name = C:\Users\William Duggan\Documents\University\Second Year\COSC241 - Programming and Problem Solving\COSC241 - Labs\06\LongWords.java LineNo = 5 ColNo = 8 Msg = 'The import java.io is never used'
+12 May 2021 9:22:44 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@433a84
+12 May 2021 9:22:44 GMT:  Kind = WARNING
+12 May 2021 9:22:44 GMT: Name = C:\Users\William Duggan\Documents\University\Second Year\COSC241 - Programming and Problem Solving\COSC241 - Labs\06\LongWords.java LineNo = 29 ColNo = 17 Msg = 'Resource leak: 'fileScan' is never closed'
